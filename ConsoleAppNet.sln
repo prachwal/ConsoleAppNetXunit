@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Settings.StyleCop = Settings.StyleCop
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{6138B2F4-1903-41BE-AF74-B2A26A5A1B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{98ED910F-7C42-46DB-85E0-68BC6A7B9A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +26,14 @@ Global
 		{40B4AF8B-4C69-494E-815D-88D17CE9A8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B4AF8B-4C69-494E-815D-88D17CE9A8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B4AF8B-4C69-494E-815D-88D17CE9A8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6138B2F4-1903-41BE-AF74-B2A26A5A1B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6138B2F4-1903-41BE-AF74-B2A26A5A1B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6138B2F4-1903-41BE-AF74-B2A26A5A1B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6138B2F4-1903-41BE-AF74-B2A26A5A1B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98ED910F-7C42-46DB-85E0-68BC6A7B9A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98ED910F-7C42-46DB-85E0-68BC6A7B9A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98ED910F-7C42-46DB-85E0-68BC6A7B9A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98ED910F-7C42-46DB-85E0-68BC6A7B9A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
